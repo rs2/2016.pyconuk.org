@@ -8,7 +8,7 @@ django-amber==0.5.0
 django-appconf==1.0.2     # via django-compressor
 django-compressor==2.1
 django-markdown-deux==1.0.5
-Django==1.9.7             # via django-amber
+Django==2.2.24             # via django-amber
 http-crawler==0.1.2
 lxml==3.6.0               # via http-crawler
 markdown2==2.3.1          # via django-markdown-deux
